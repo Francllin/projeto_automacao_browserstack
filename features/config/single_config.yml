@@ -1,0 +1,14 @@
+server: "hub-cloud.browserstack.com"
+user: "digitar o user"
+key: "digitar o key"
+
+common_caps:
+  "browserstack.debug": true
+
+browser_caps:
+  -
+    "os": "Windows"
+    "os_version": "10"
+    "browser": "Chrome"
+    "browser_version": "60.0"
+    "resolution": "1024x768"

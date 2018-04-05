@@ -1,0 +1,4 @@
+#####endpoint de acessos ######
+
+homo:
+   base_url: "http://demo.cs-cart.com/"
